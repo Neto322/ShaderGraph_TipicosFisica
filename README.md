@@ -1,2 +1,3 @@
 # ShaderGraph_TipicosFisica
-Proyecto emigrafo de google driva
+Manuel Ernesto Alvarez Figueroa
+Proyecto emigrado de google driva
